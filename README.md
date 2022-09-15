@@ -10,3 +10,4 @@ git clone https://github.com/companioncubegd/git.py
 # Todo
 - [ ] Add To PiPi
 - [ ] Make Documentaition
+- [ ] Add a lot more functionality and options
