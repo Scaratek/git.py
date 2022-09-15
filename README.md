@@ -11,3 +11,4 @@ git clone https://github.com/companioncubegd/git.py
 - [ ] Add To PiPi
 - [ ] Make Documentaition
 - [ ] Add a lot more functionality and options
+- [ ] Add more then just 5 fucking commands lol
